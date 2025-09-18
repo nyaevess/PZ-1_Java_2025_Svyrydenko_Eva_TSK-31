@@ -68,15 +68,16 @@ JVM теж кросплатформна: є версії JVM для Windows, Lin
 
 
 ***№5. Дати пояснення кожному зі слів у початковому коді HelloWorld:***
+
 	- class
 	- public
 	- static
 	- void
 	- String
 	- System
- 
 	- out
 	- println
+
 
 
 
